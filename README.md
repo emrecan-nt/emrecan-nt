@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **app developing with flutter**
 
 - 📫 How to reach me **emremizrak150@gmail.com**
-
+![snake gif](https://github.com/emrecan-nt/emrecan-nt/blob/output/github-contribution-grid-snake.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/emrecan-nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/emrecan-nt" height="30" width="40" /></a>
